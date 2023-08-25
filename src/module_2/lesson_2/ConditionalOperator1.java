@@ -1,4 +1,4 @@
-public class ConditionalOperator {
+public class ConditionalOperator1 {
 
     public static void main(String[] args) {
         int temp = 20;
