@@ -1,6 +1,5 @@
-
 public class Variable {
-    
+
     public static void main(String[] args) {
         int days = 365;
         int year = days / 365;
