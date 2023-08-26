@@ -5,7 +5,7 @@ public class Main {
         Dog dog = new Dog();
         dog.name = "Bob";
         dog.breed = "pit bull";
-        dog.weigh = "10";
+        dog.weigh = 10;
         System.out.println(dog.getInfo());
     }
 }

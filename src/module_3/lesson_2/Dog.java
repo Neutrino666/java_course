@@ -2,7 +2,7 @@ package module_3.lesson_2;
 
 public class Dog {
     String name;
-    String weigh;
+    double weigh;
     String breed;
 
     String getInfo() {
