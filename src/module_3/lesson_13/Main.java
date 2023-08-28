@@ -1,7 +1,7 @@
 package module_3.lesson_13;
 
-import module_3.lesson_13.intheritance.Cat;
-import module_3.lesson_13.intheritance.Lion;
+// import module_3.lesson_13.intheritance.Cat;
+// import module_3.lesson_13.intheritance.Lion;
 
 public class Main {
     public static void main(String[] args) {
