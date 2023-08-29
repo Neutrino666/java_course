@@ -1,7 +1,5 @@
 package module_4.lesson_1.exception;
 
-import java.util.ArrayList;
-
 public class Main {
     public static void main(String[] args) {
         int a = 1;
